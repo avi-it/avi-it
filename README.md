@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Angular, Java, C++, Javascript**
 
-- 📫 How to reach me **opsidoxro@gmail.com**
+- 📫 How to reach me **avram_ioan@icloud.com**
 
 <p align="left">
 </p>
