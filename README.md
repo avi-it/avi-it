@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Avram Ioan</h1>
 <h3 align="center">A passionate Software developer from Romania🇹🇩</h3>
 
-- 🌱 I’m currently learning **New Technologies**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Angular, Java, C++, Javascript**
 
